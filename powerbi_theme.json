@@ -1,0 +1,32 @@
+{
+    "name": "Custom Purple Theme",
+    "dataColors": [
+        "#8B5FBF",
+        "#61398F",
+        "#D6C6E1",
+        "#9A73B5"
+    ],
+    "background": "#F5F3F7",
+    "foreground": "#4A4A4A",
+    "tableAccent": "#8B5FBF",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "color": [
+                    {
+                        "solid": {
+                            "color": "#4A4A4A"
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "solid": {
+                            "color": "#FFFFFF"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
